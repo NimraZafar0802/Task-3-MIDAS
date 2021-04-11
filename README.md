@@ -3,4 +3,4 @@
 Goal is to predict the product category.Description is the main feature. 
 The data was  cleaned,processed and visualized.
 Used Algorithm:KNN
-Accuracy:62.5%
+Accuracy:70.5%
